@@ -1,9 +1,10 @@
 # Over-The-Air Instructions to Adafruit Robot Car
 ### *COM3505 Lab Assessment 2 - Cameron Leech-Thomson (acc19cl)*
+*Please note that this repository was originally on a student GitLab account for the University of Sheffield. Since graduating I have moved it to my personal account.*
 
 ## Demo Video
 
-There is a demo video in `LA2/LA2 Demo` that shows the OTA Car in action. It must be noted here that the robot was moving on an uneven floor, so even though the robot is trying to move straight forward, it does veer off to one side. The instructions ran can be seen below:
+There is a demo video in `LA2 Demo.mp4` that shows the OTA Car in action. It must be noted here that the robot was moving on an uneven floor, so even though the robot is trying to move straight forward, it does veer off to one side. The instructions ran can be seen below:
 
 ```
 LEFTMOTOR-SPEED RIGHTMOTOR-SPEED DURATION(sec)
