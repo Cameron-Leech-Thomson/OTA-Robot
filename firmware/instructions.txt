@@ -1,0 +1,7 @@
+LEFTMOTOR-SPEED RIGHTMOTOR-SPEED DURATION(sec)
+forward-75 forward-75 5
+forward-75 stop-0 2
+backward-100 backward-100 3
+forward-150 forward-150 2
+stop stop 2
+stop-0 forward-75 2
