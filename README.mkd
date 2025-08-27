@@ -91,13 +91,15 @@ backward-150 stop 2
 
 ## Serial Monitor Output
 
+***Note:** Sections with* `[R4P]` *have been **R**emoved for **P**rivacy reasons.*
+
 ```
 Server Setup...
-AP SSID: Thing-7C9EBDD8FD58; IP address(es): local=0.0.0.0; AP=192.168.4.1
+AP SSID: Thing-7C9EBDD8FD58; IP address(es): local=[R4P]; AP=[R4P]
 Mode: STA+AP
 Channel: 1
-SSID (10): NOWTV9VJGW
-Passphrase (12): qwU4e8LyJ6CE
+SSID (10): [R4P]
+Passphrase (12): [R4P]
 BSSID set: 0
 HTTP server started
 
@@ -106,17 +108,17 @@ Connecting to Motor Shield: Motor Shield found!
 Attempting Network Connection...
 Connected to Network!
 
-Getting http://192.168.0.37:8000/instructions.txt...
+Getting http://[R4P]:8000/instructions.txt...
 Retrived instructions.txt. Return Code: 200; Size: 0
 
 No new instructions detected. System running for 9 seconds.
 
-Getting http://192.168.0.37:8000/instructions.txt...
+Getting http://[R4P]:8000/instructions.txt...
 Retrived instructions.txt. Return Code: 200; Size: 0
 
 No new instructions detected. System running for 22 seconds.
 
-Getting http://192.168.0.37:8000/instructions.txt...
+Getting http://[R4P]:8000/instructions.txt...
 Retrived instructions.txt. Return Code: 200; Size: 139
 
 New instructions detected!
@@ -140,7 +142,7 @@ Right motor moving backward at speed 150.
 
 Instructions complete! System running for 50 seconds.
 
-Getting http://192.168.0.37:8000/instructions.txt...
+Getting http://[R4P]:8000/instructions.txt...
 Retrived instructions.txt. Return Code: 200; Size: 139
 
 No new instructions detected. System running for 63 seconds.
